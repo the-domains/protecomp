@@ -1,8 +1,14 @@
 layout_spectrum: 0.2170213
-color:
-  saturation: 0.3723404
-  brandStrength: 0.6161952
-  lightness: 0.706383
-  rhythmicContrast: 0.2255319
 typography_spectrum: 0.7638298
+color:
+  saturation: 0.5106383
+  brandStrength: 0.4404255
+  lightness: 0.6191489
+  brandColors:
+    - '#000000'
+    - '#0043CE'
+    - '#DEE5F8'
+    - '#9397A5'
+    - '#11ADFE'
+  rhythmicContrast: 0.2255319
 name: Protecomp
