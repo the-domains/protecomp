@@ -4,8 +4,15 @@
         <description><![CDATA[Protecomp]]></description>
         <link>https://thegrid.ai/protecomp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 09:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 09:36:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/protecomp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Palvelinylläpito</p>]]></description>
+            <link>https://thegrid.ai/protecomp/palvelinyllapito/index.html</link>
+            <guid isPermaLink="false">340355fa-722f-40bc-833a-79fc73346149</guid>
+            <pubDate>Fri, 29 Apr 2016 09:34:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Ylläpito</p>]]></description>
