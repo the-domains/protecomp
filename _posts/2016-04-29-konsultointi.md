@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Konsultointi
-datePublished: '2016-04-29T09:37:12.579Z'
-dateModified: '2016-04-29T09:37:08.834Z'
+datePublished: '2016-04-29T09:55:40.237Z'
+dateModified: '2016-04-29T09:53:05.535Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-29-konsultointi.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-29-konsultointi.md
-published: true
 url: konsultointi/index.html
 _type: WebPage
 
