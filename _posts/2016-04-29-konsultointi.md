@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Konsultointi
-datePublished: '2016-04-29T09:35:57.024Z'
-dateModified: '2016-04-29T09:30:37.008Z'
+datePublished: '2016-04-29T09:37:05.901Z'
+dateModified: '2016-04-29T09:36:01.319Z'
 title: ''
 author: []
 authors: []
@@ -19,7 +19,7 @@ starred: false
 sourcePath: _posts/2016-04-29-konsultointi.md
 published: true
 url: konsultointi/index.html
-_type: Article
+_type: WebPage
 
 ---
 Konsultointi
