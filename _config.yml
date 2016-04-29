@@ -1,14 +1,29 @@
+name: Protecomp
+favicon: null
 layout_spectrum: 0.2170213
+typography_spectrum: 0.7638298
+title: Protecomp
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5106383
-  brandStrength: 0.4404255
-  lightness: 0.6191489
   brandColors:
     - '#000000'
     - '#0043CE'
     - '#DEE5F8'
     - '#9397A5'
     - '#11ADFE'
+  brandStrength: 0.4404255
+  lightness: 0.6191489
+  saturation: 0.5106383
   rhythmicContrast: 0.2255319
-typography_spectrum: 0.7638298
-name: Protecomp
+purpose: []
